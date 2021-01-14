@@ -1,1 +1,2 @@
 file for osoc induction
+OSOC- OPEN SOURCE OPEN COMMUNITY
